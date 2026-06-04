@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sathiya 👋
 
-<!--
-**sathiyalabs/sathiyalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building AI Agents, Automations & SaaS from Chennai
 
-Here are some ideas to get you started:
+## Currently Building
+- AI Agents
+- Automation Systems
+- SaaS Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- Python
+- APIs
+- AI Automation
+- Business & Sales
+
+## 2026 Goals
+- Build 10 AI Projects
+- Get First Client
+- Launch a SaaS MVP
+
+## Tech Stack
+Python • Git • GitHub • AI
+
+---
+Building in public.
