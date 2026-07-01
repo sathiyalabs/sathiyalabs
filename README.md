@@ -1,6 +1,6 @@
 # Hi, I'm Sathiya 👋
 
-🚀 Building AI Agents, Automations & SaaS from Chennai
+🚀 Computer Science student at SRM IST building AI, automation, and software engineering projects with Python, C, and GitHub.
 
 ## Currently Building
 - AI Agents
