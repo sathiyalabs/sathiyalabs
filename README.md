@@ -1,25 +1,26 @@
-# Hi, I'm Sathiya 👋
+ Hi, I'm Sathiya 
 
-🚀 Computer Science student at SRM IST building AI, automation, and software engineering projects with Python, C, and GitHub.
+Computer Science student at SRM Institute of Science and Technology, passionate about software engineering, distributed systems, and artificial intelligence.
 
-## Currently Building
-- AI Agents
-- Automation Systems
-- SaaS Projects
+ 🚀 Currently Building:
 
-## Learning
+- Consensa — A distributed consensus-based key-value database
+- Hands-on software engineering projects
+- Strong computer science fundamentals
+
+ 🌱 Currently Learning:
+
+- C
 - Python
-- APIs
-- AI Automation
-- Business & Sales
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Distributed Systems
 
-## 2026 Goals
-- Build 10 AI Projects
-- Get First Client
-- Launch a SaaS MVP
+🛠 Tech Stack:
 
-## Tech Stack
-Python • Git • GitHub • AI
+Python • C • Git • GitHub • Linux
 
----
-Building in public.
+## 🎯 Goal
+
+Build reliable software, deepen my understanding of computer science, and grow into an AI Engineer / Software Engineer.
