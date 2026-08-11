@@ -1,26 +1,40 @@
- Hi, I'm Sathiya 
+ Hi, I'm Sathiya 👋
 
-Computer Science student at SRM Institute of Science and Technology, passionate about software engineering, distributed systems, and artificial intelligence.
+🎓 B.Tech CSE Student @ SRMIST  
+💻 Currently learning C, Python & Data Structures  
+🤖 Interested in Software Engineering & AI  
+📍 Chennai, India
 
- 🚀 Currently Building:
+ 🚀 Currently Learning
 
-- Consensa — A distributed consensus-based key-value database
-- Hands-on software engineering projects
-- Strong computer science fundamentals
-
- 🌱 Currently Learning:
-
-- C
-- Python
+- C Programming
 - Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Distributed Systems
+- Python
+- Git & GitHub
+- Computer Science Fundamentals
 
-🛠 Tech Stack:
+ 🛠️ Tech Stack
 
-Python • C • Git • GitHub • Linux
+C • Python • Git • GitHub • Linux
 
-## 🎯 Goal
+ 📚 My 2026–27 Goals
 
-Build reliable software, deepen my understanding of computer science, and grow into an AI Engineer / Software Engineer.
+- Build strong programming fundamentals
+- Solve 300+ DSA/problem-solving questions
+- Build 3–5 meaningful projects
+- Maintain a consistent GitHub
+- Learn Python properly
+- Build my first serious software project
+
+ 📂 Projects
+
+ 🔹 C Programming
+Collection of programs and problem-solving exercises while learning C.
+
+ 🔹 AI Resume Analyzer
+Python project that analyzes resumes using AI.
+
+🎯 Long-Term Goal
+
+Become a strong Software Engineer with expertise in
+AI and computer science fundamentals.
