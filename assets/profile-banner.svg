@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
-<title id="title">Sathiya Narayanan | Computer Science at SRMIST</title>
+<title id="title">Sathiya Narayanan L | Computer Science at SRMIST</title>
 <desc id="description">An oversized typographic introduction on midnight blue, beside a mint and blue animated wireframe sphere.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080e1b"/><stop offset="1" stop-color="#101f34"/></linearGradient>
@@ -8,9 +8,9 @@
   <clipPath id="frame"><rect x="1" y="1" width="1198" height="418" rx="22"/></clipPath>
 </defs>
 <style>
-  .sphere { transform-origin: 971px 205px; animation: rotate 24s linear 1; }
-  .spark { stroke-dasharray: 90 1080; animation: trace 12s ease-in-out 2; }
-  @keyframes rotate { from { transform: rotate(-14deg); } to { transform: rotate(346deg); } }
+  .sphere { transform-origin: 971px 205px; animation: rotate 4.8s ease-out 1; }
+  .spark { stroke-dasharray: 90 1080; animation: trace 4.8s ease-in-out 1; }
+  @keyframes rotate { from { transform: rotate(-24deg); } to { transform: rotate(0deg); } }
   @keyframes trace { from { stroke-dashoffset: 1170; } to { stroke-dashoffset: 0; } }
   @media (prefers-reduced-motion: reduce) { .sphere, .spark { animation: none; } }
 </style>
@@ -21,8 +21,8 @@
   <text x="56" y="62" fill="#92a6bf" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.5">SATHIYALABS</text>
   <path d="M56 91H104" stroke="#88f5d4" stroke-width="3"/>
   <text x="51" y="178" fill="#f3f7fc" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Sathiya</text>
-  <text x="51" y="259" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Narayanan.</text>
-  <text x="56" y="307" fill="#b4c4d8" font-family="Arial, Helvetica, sans-serif" font-size="22">Exploring software. Building my foundation.</text>
+  <text x="51" y="259" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Narayanan L.</text>
+  <text x="56" y="307" fill="#b4c4d8" font-family="Arial, Helvetica, sans-serif" font-size="22">Software engineering · AI/ML · Problem solving</text>
   <path d="M56 346H690" stroke="#26364b"/>
   <text x="56" y="382" fill="#8da4bf" font-family="Arial, Helvetica, sans-serif" font-size="16">B.Tech CSE · SRMIST</text>
   <text x="690" y="382" text-anchor="end" fill="#8da4bf" font-family="Arial, Helvetica, sans-serif" font-size="16">Chennai, India</text>
