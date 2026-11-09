@@ -1,76 +1,69 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan. B.Tech CSE at SRMIST, Chennai. Exploring software and building my foundation." />
+  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — B.Tech CSE at SRMIST, Chennai. Software engineering, AI/ML, and problem-solving." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>LinkedIn ↗</strong></a>
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/sathiyalabs?tab=repositories"><strong>Explore my code ↗</strong></a>
+  <a href="#selected-projects"><strong>Projects</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/sathiyalabs?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
-<br />
+## About me
 
-I'm **Sathiya**, a first-year Computer Science and Engineering student at **SRMIST**. I’m learning C, Python, and data structures, with interests in software engineering and AI. I enjoy building projects that give me something new to figure out.
+I'm **Sathiya**, a first-year **B.Tech Computer Science and Engineering student at SRMIST**, based in Chennai. I’m strengthening my foundations in **C, Python, data structures, and algorithms** while exploring software engineering and AI/ML through practical projects.
 
-<br />
+I use AI tools to explore ideas, learn, and build, alongside studying the fundamentals behind the code. My projects span frontend interfaces, team formation, and machine learning for code analysis.
 
-## Selected work
+## Selected projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Milan ’26
-**Cultural festival frontend**
-
-A festival website prototype built for the SRMIST DSA tech team selection task, with event filtering, validated forms, and demo registration.
-
-**React · TypeScript · Tailwind CSS · Vite**
-
-[Explore the project ↗](https://github.com/sathiyalabs/Milan-)
-
-</td>
-<td width="50%" valign="top">
-
-### AI Resume Analyzer
-**Python &amp; AI exploration**
-
-A Python project exploring AI-assisted resume analysis.
-
-**Python**
-
-[Explore the project ↗](https://github.com/sathiyalabs/ai-resume-analyzer)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sathiyalabs/impactgraph-ai">ImpactGraph AI</a></h3>
+      <p>Explores bug-fix risk in Git commits by combining code-change metrics with dependency-graph features and a Random Forest classifier.</p>
+      <p><strong>Python · scikit-learn · NetworkX · Flask</strong></p>
+      <p><a href="https://github.com/sathiyalabs/impactgraph-ai">Explore source →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sathiyalabs/projectmatch">ProjectMatch</a></h3>
+      <p>A team formation prototype that identifies capability gaps and explores which candidates could complement an existing team.</p>
+      <p><strong>React · TypeScript · Express · Gemini</strong></p>
+      <p><a href="https://github.com/sathiyalabs/projectmatch">Explore source →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sathiyalabs/Milan-">Milan ’26</a></h3>
+      <p>A cultural festival frontend prototype for the SRMIST DSA tech team selection task, with event filtering, form validation, and demo registration.</p>
+      <p><strong>React · TypeScript · Tailwind CSS · Vite</strong></p>
+      <p><a href="https://github.com/sathiyalabs/Milan-">Explore source →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sathiyalabs/ai-resume-analyzer">AI Resume Analyzer</a></h3>
+      <p>A Python command-line practice project that uses fixed rules to score entered skills and project counts, then prints a summary and suggestions.</p>
+      <p><strong>Python · Rule-based scoring</strong></p>
+      <p><a href="https://github.com/sathiyalabs/ai-resume-analyzer">Explore source →</a></p>
+    </td>
+  </tr>
 </table>
 
-<br />
+## Learning & tools
 
-## Learning & building
-
-| Focus | Current direction |
+| Area | Focus |
 | :--- | :--- |
-| **Programming** | C and Python fundamentals, practice programs, and problem-solving |
-| **Computer science** | Data structures, algorithms, and understanding how programs work |
-| **Frontend** | Building interfaces with React, TypeScript, and Tailwind CSS |
-| **Workflow** | Git, GitHub, Linux, and clearer project documentation |
+| **Fundamentals** | C · Python · Data structures & algorithms · Problem-solving |
+| **Web projects** | React · TypeScript · Tailwind CSS · Vite |
+| **Data & ML projects** | pandas · scikit-learn · NetworkX · Flask |
+| **Development workflow** | Git · GitHub · Linux |
 
-<br />
-
-## Working toward · 2026–27
-
-- [ ] Solve **300 programming and DSA problems**.
-- [ ] Build and document **3–5 meaningful projects**.
-- [ ] Strengthen my **C, Python, and computer science fundamentals**.
-- [ ] Maintain a consistent record of learning and building.
-
-<br />
+My current priorities are to practise problem-solving consistently, understand the code I build, and improve project quality through validation, testing, and documentation.
 
 ---
 
 <p align="center">
-  <strong>Let's build something and learn along the way.</strong><br /><br />
-  Open to student projects, hackathons, and connecting with fellow learners.<br />
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/">Say hello on LinkedIn ↗</a>
+  <strong>Connect with me</strong><br />
+  Happy to connect with fellow students and developers for projects, hackathons, and learning.<br /><br />
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/">Find me on LinkedIn →</a>
 </p>
