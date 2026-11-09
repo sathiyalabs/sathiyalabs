@@ -20,39 +20,31 @@ I use AI tools to explore ideas, learn, and build, alongside studying the fundam
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/Varnamgifts">Varnam Gifts</a></h3>
       <p>A festive gift catalogue with searchable collections, animated product cards, smooth scrolling, and product-specific WhatsApp enquiry drafts. Features 12 products across four collections and reduced-motion support.</p>
       <p><strong>Next.js · React · Tailwind CSS · Framer Motion · GSAP · Lenis</strong></p>
       <p><a href="https://github.com/sathiyalabs/Varnamgifts">Explore source →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/impactgraph-ai">ImpactGraph AI</a></h3>
       <p>Explores bug-fix risk in Git commits by combining code-change metrics with dependency-graph features and a Random Forest classifier.</p>
       <p><strong>Python · scikit-learn · NetworkX · Flask</strong></p>
       <p><a href="https://github.com/sathiyalabs/impactgraph-ai">Explore source →</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/projectmatch">ProjectMatch</a></h3>
       <p>A team formation prototype that identifies capability gaps and explores which candidates could complement an existing team.</p>
       <p><strong>React · TypeScript · Express · Gemini</strong></p>
       <p><a href="https://github.com/sathiyalabs/projectmatch">Explore source →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/Milan-">Milan ’26</a></h3>
       <p>A cultural festival frontend prototype for the SRMIST DSA tech team selection task, with event filtering, form validation, and demo registration.</p>
       <p><strong>React · TypeScript · Tailwind CSS · Vite</strong></p>
       <p><a href="https://github.com/sathiyalabs/Milan-">Explore source →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sathiyalabs/ai-resume-analyzer">AI Resume Analyzer</a></h3>
-      <p>A Python command-line practice project that uses fixed rules to score entered skills and project counts, then prints a summary and suggestions.</p>
-      <p><strong>Python · Rule-based scoring</strong></p>
-      <p><a href="https://github.com/sathiyalabs/ai-resume-analyzer">Explore source →</a></p>
     </td>
   </tr>
 </table>
