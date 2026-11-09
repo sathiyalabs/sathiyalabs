@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sathiyalabs/sathiyalabs/75196f474b03d1ccffe4c5fb8e11ebbe67898d93/assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — B.Tech CSE at SRMIST, Chennai. Software engineering, AI/ML, and problem-solving." />
+  <img src="https://raw.githubusercontent.com/sathiyalabs/sathiyalabs/f079b690893ce8084de6aaebcbf1c07fc3922b69/assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — Computer Science student at SRMIST." />
 </p>
 
 <p align="center">
