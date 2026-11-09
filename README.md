@@ -20,6 +20,14 @@ I use AI tools to explore ideas, learn, and build, alongside studying the fundam
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/sathiyalabs/Varnamgifts">Varnam Gifts</a></h3>
+      <p>A festive gift catalogue with searchable collections, animated product cards, smooth scrolling, and product-specific WhatsApp enquiry drafts. Features 12 products across four collections and reduced-motion support.</p>
+      <p><strong>Next.js · React · Tailwind CSS · Framer Motion · GSAP · Lenis</strong></p>
+      <p><a href="https://github.com/sathiyalabs/Varnamgifts">Explore source →</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/impactgraph-ai">ImpactGraph AI</a></h3>
       <p>Explores bug-fix risk in Git commits by combining code-change metrics with dependency-graph features and a Random Forest classifier.</p>
