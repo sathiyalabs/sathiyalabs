@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Sathiya Narayanan — CSE student and software builder</title>
+<desc id="desc">Dark navy banner with blue and mint orbital lines. B.Tech CSE at SRMIST, Chennai. Learning fundamentals and building projects.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#111d35"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26344e" stroke-width="0.6"/></pattern>
+</defs>
+<style>
+  .orbit { transform-origin: 996px 180px; animation: turn 16s linear 1; }
+  .trace { stroke-dasharray: 110 1000; animation: flow 8s ease-in-out 1; }
+  @keyframes turn { from { transform: rotate(-30deg); } to { transform: rotate(330deg); } }
+  @keyframes flow { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .orbit, .trace { animation: none; } }
+</style>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)" opacity=".45"/>
+<path d="M56 62H108" stroke="#5eead4" stroke-width="4" stroke-linecap="round"/>
+<text x="56" y="105" fill="#a8b9d5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SATHIYALABS</text>
+<text x="52" y="174" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Sathiya Narayanan</text>
+<text x="56" y="222" fill="#c1cde0" font-family="Arial, Helvetica, sans-serif" font-size="21">CSE student. Learning deeply. Building steadily.</text>
+<text x="56" y="290" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="17">B.Tech CSE · SRMIST · Chennai, India</text>
+<circle cx="996" cy="180" r="112" fill="#111e34" stroke="#334563"/>
+<circle cx="996" cy="180" r="80" fill="none" stroke="#273b59"/>
+<g class="orbit" fill="none" stroke="url(#line)">
+  <ellipse cx="996" cy="180" rx="156" ry="55" transform="rotate(-32 996 180)" stroke-width="1.5" opacity=".65"/>
+  <ellipse cx="996" cy="180" rx="156" ry="55" transform="rotate(32 996 180)" stroke-width="1.5" opacity=".65"/>
+  <circle cx="996" cy="68" r="5" fill="#5eead4" stroke="none"/>
+</g>
+<path class="trace" d="M840 180C870 95 1122 95 1152 180C1122 265 870 265 840 180" fill="none" stroke="#5eead4" stroke-width="2" opacity=".8"/>
+<text x="996" y="198" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="48" font-weight="700">&lt;/&gt;</text>
+</svg>
