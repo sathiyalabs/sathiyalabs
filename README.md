@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — B.Tech CSE at SRMIST, Chennai. Software engineering, AI/ML, and problem-solving." />
+  <img src="./assets/profile-banner.svg?v=e8aa6f82" width="1200" alt="Sathiya Narayanan L — B.Tech CSE at SRMIST, Chennai. Software engineering, AI/ML, and problem-solving." />
 </p>
 
 <p align="center">
