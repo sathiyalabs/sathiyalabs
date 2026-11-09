@@ -1,40 +1,46 @@
- Hi, I'm Sathiya 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan — B.Tech CSE student at SRMIST, Chennai. Learning deeply. Building steadily." />
+</p>
 
-🎓 B.Tech CSE Student @ SRMIST  
-💻 Currently learning C, Python & Data Structures  
-🤖 Interested in Software Engineering & AI  
-📍 Chennai, India
+<p align="center">
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/sathiyalabs?tab=repositories">Repositories</a>
+</p>
 
- 🚀 Currently Learning
+## Hi, I'm Sathiya 👋
 
-- C Programming
-- Data Structures & Algorithms
-- Python
-- Git & GitHub
-- Computer Science Fundamentals
+I'm a **first-year B.Tech Computer Science and Engineering student at SRMIST**, Chennai. I'm building my foundation in **C, Python, and data structures**, while exploring software engineering and AI through practical projects.
 
- 🛠️ Tech Stack
+## Selected projects
 
-C • Python • Git • GitHub • Linux
+| Project | What it's about | Tools |
+| :--- | :--- | :--- |
+| **[Milan ’26](https://github.com/sathiyalabs/Milan-)** | A cultural festival frontend prototype built for the SRMIST DSA tech team selection task. Includes event filtering, form validation, and demo registration flows. | React · TypeScript · Tailwind CSS · Vite |
+| **[AI Resume Analyzer](https://github.com/sathiyalabs/ai-resume-analyzer)** | A Python project exploring AI-assisted resume analysis. | Python |
 
- 📚 My 2026–27 Goals
+## What I'm working on
 
-- Build strong programming fundamentals
-- Solve 300+ DSA/problem-solving questions
-- Build 3–5 meaningful projects
-- Maintain a consistent GitHub
-- Learn Python properly
-- Build my first serious software project
+- **Programming fundamentals** — practising C and Python and understanding how programs work.
+- **Data structures and algorithms** — improving problem-solving step by step.
+- **Building projects** — turning ideas into usable interfaces and documenting what I learn.
+- **Developer tools** — getting comfortable with Git, GitHub, and Linux.
 
- 📂 Projects
+## Tools & technologies
 
- 🔹 C Programming
-Collection of programs and problem-solving exercises while learning C.
+**Learning** &nbsp; C · Python · Data Structures & Algorithms  
+**Used in projects** &nbsp; React · TypeScript · Tailwind CSS · Vite  
+**Workflow** &nbsp; Git · GitHub · Linux
 
- 🔹 AI Resume Analyzer
-Python project that analyzes resumes using AI.
+## Goals for 2026–27
 
-🎯 Long-Term Goal
+- [ ] Solve 300 programming and DSA problems.
+- [ ] Build and document 3–5 meaningful projects.
+- [ ] Strengthen my C, Python, and computer science fundamentals.
+- [ ] Keep a consistent record of progress on GitHub.
 
-Become a strong Software Engineer with expertise in
-AI and computer science fundamentals.
+---
+
+<p align="center">
+  Interested in student projects, hackathons, or learning together?<br />
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>Connect with me on LinkedIn ↗</strong></a>
+</p>
