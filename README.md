@@ -1,46 +1,76 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan — B.Tech CSE student at SRMIST, Chennai. Learning deeply. Building steadily." />
+  <img src="./assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan. B.Tech CSE at SRMIST, Chennai. Exploring software and building my foundation." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/sathiyalabs?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/sathiyalabs?tab=repositories"><strong>Explore my code ↗</strong></a>
 </p>
 
-## Hi, I'm Sathiya 👋
+<br />
 
-I'm a **first-year B.Tech Computer Science and Engineering student at SRMIST**, Chennai. I'm building my foundation in **C, Python, and data structures**, while exploring software engineering and AI through practical projects.
+I'm **Sathiya**, a first-year Computer Science and Engineering student at **SRMIST**. I’m learning C, Python, and data structures, with interests in software engineering and AI. I enjoy building projects that give me something new to figure out.
 
-## Selected projects
+<br />
 
-| Project | What it's about | Tools |
-| :--- | :--- | :--- |
-| **[Milan ’26](https://github.com/sathiyalabs/Milan-)** | A cultural festival frontend prototype built for the SRMIST DSA tech team selection task. Includes event filtering, form validation, and demo registration flows. | React · TypeScript · Tailwind CSS · Vite |
-| **[AI Resume Analyzer](https://github.com/sathiyalabs/ai-resume-analyzer)** | A Python project exploring AI-assisted resume analysis. | Python |
+## Selected work
 
-## What I'm working on
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Programming fundamentals** — practising C and Python and understanding how programs work.
-- **Data structures and algorithms** — improving problem-solving step by step.
-- **Building projects** — turning ideas into usable interfaces and documenting what I learn.
-- **Developer tools** — getting comfortable with Git, GitHub, and Linux.
+### Milan ’26
+**Cultural festival frontend**
 
-## Tools & technologies
+A festival website prototype built for the SRMIST DSA tech team selection task, with event filtering, validated forms, and demo registration.
 
-**Learning** &nbsp; C · Python · Data Structures & Algorithms  
-**Used in projects** &nbsp; React · TypeScript · Tailwind CSS · Vite  
-**Workflow** &nbsp; Git · GitHub · Linux
+**React · TypeScript · Tailwind CSS · Vite**
 
-## Goals for 2026–27
+[Explore the project ↗](https://github.com/sathiyalabs/Milan-)
 
-- [ ] Solve 300 programming and DSA problems.
-- [ ] Build and document 3–5 meaningful projects.
-- [ ] Strengthen my C, Python, and computer science fundamentals.
-- [ ] Keep a consistent record of progress on GitHub.
+</td>
+<td width="50%" valign="top">
+
+### AI Resume Analyzer
+**Python &amp; AI exploration**
+
+A Python project exploring AI-assisted resume analysis.
+
+**Python**
+
+[Explore the project ↗](https://github.com/sathiyalabs/ai-resume-analyzer)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Learning & building
+
+| Focus | Current direction |
+| :--- | :--- |
+| **Programming** | C and Python fundamentals, practice programs, and problem-solving |
+| **Computer science** | Data structures, algorithms, and understanding how programs work |
+| **Frontend** | Building interfaces with React, TypeScript, and Tailwind CSS |
+| **Workflow** | Git, GitHub, Linux, and clearer project documentation |
+
+<br />
+
+## Working toward · 2026–27
+
+- [ ] Solve **300 programming and DSA problems**.
+- [ ] Build and document **3–5 meaningful projects**.
+- [ ] Strengthen my **C, Python, and computer science fundamentals**.
+- [ ] Maintain a consistent record of learning and building.
+
+<br />
 
 ---
 
 <p align="center">
-  Interested in student projects, hackathons, or learning together?<br />
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>Connect with me on LinkedIn ↗</strong></a>
+  <strong>Let's build something and learn along the way.</strong><br /><br />
+  Open to student projects, hackathons, and connecting with fellow learners.<br />
+  <a href="https://www.linkedin.com/in/sathiyanarayananl/">Say hello on LinkedIn ↗</a>
 </p>
