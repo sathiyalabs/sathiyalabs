@@ -1,20 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sathiyalabs/sathiyalabs/f079b690893ce8084de6aaebcbf1c07fc3922b69/assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — Computer Science student at SRMIST." />
+<p>
+  <img src="https://raw.githubusercontent.com/sathiyalabs/sathiyalabs/08cb539318e060615e20122fa46dbc462e6b409f/assets/profile-banner.svg" width="1200" alt="Sathiya Narayanan L — Computer Science at SRMIST." />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#selected-projects"><strong>Projects</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/sathiyalabs?tab=repositories"><strong>Repositories</strong></a>
-</p>
+**First-year B.Tech CSE student at SRMIST, Chennai.**  
+I’m developing my foundations in C, Python, and algorithms through web projects and experiments in machine learning.
 
-## About me
-
-I'm **Sathiya**, a first-year **B.Tech Computer Science and Engineering student at SRMIST**, based in Chennai. I’m strengthening my foundations in **C, Python, data structures, and algorithms** while exploring software engineering and AI/ML through practical projects.
-
-I use AI tools to explore ideas, learn, and build, alongside studying the fundamentals behind the code. My projects span frontend interfaces, team formation, and machine learning for code analysis.
+[LinkedIn](https://www.linkedin.com/in/sathiyanarayananl/) · [All repositories](https://github.com/sathiyalabs?tab=repositories)
 
 ## Selected projects
 
@@ -22,48 +13,35 @@ I use AI tools to explore ideas, learn, and build, alongside studying the fundam
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/Varnamgifts">Varnam Gifts</a></h3>
-      <p>A festive gift catalogue with searchable collections, animated product cards, smooth scrolling, and product-specific WhatsApp enquiry drafts. Features 12 products across four collections and reduced-motion support.</p>
-      <p><strong>Next.js · React · Tailwind CSS · Framer Motion · GSAP · Lenis</strong></p>
-      <p><a href="https://varnam-gifts-motion.thanish3475.chatgpt.site/">Live demo →</a> &nbsp;·&nbsp; <a href="https://github.com/sathiyalabs/Varnamgifts">Source code →</a></p>
+      <p>A gift catalogue that connects product discovery to WhatsApp enquiries. Includes collection search, interactive product cards, and reduced-motion support.</p>
+      <p><strong>Next.js · React · GSAP</strong></p>
+      <p><a href="https://varnam-gifts-motion.thanish3475.chatgpt.site/">Live site</a> · <a href="https://github.com/sathiyalabs/Varnamgifts">Source</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/impactgraph-ai">ImpactGraph AI</a></h3>
-      <p>Explores bug-fix risk in Git commits by combining code-change metrics with dependency-graph features and a Random Forest classifier.</p>
-      <p><strong>Python · scikit-learn · NetworkX · Flask</strong></p>
-      <p><a href="https://github.com/sathiyalabs/impactgraph-ai">Explore source →</a></p>
+      <p>An ML experiment combining Git change metrics and dependency graphs to estimate bug-fix risk. Includes baseline comparisons, evaluation code, and tests.</p>
+      <p><strong>Python · scikit-learn · Flask</strong></p>
+      <p><a href="https://github.com/sathiyalabs/impactgraph-ai">Source &amp; overview</a> · <a href="https://github.com/sathiyalabs/impactgraph-ai/tree/main/ml">Evaluation code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/projectmatch">ProjectMatch</a></h3>
-      <p>A team formation prototype that identifies capability gaps and explores which candidates could complement an existing team.</p>
-      <p><strong>React · TypeScript · Express · Gemini</strong></p>
-      <p><a href="https://github.com/sathiyalabs/projectmatch">Explore source →</a></p>
+      <p>A team formation prototype for identifying capability gaps and comparing candidates’ potential contributions, with a scoring engine and team simulations.</p>
+      <p><strong>React · TypeScript · Express</strong></p>
+      <p><a href="https://github.com/sathiyalabs/projectmatch">Source</a> · <a href="https://github.com/sathiyalabs/projectmatch/blob/main/src/engine/scoring.ts">Scoring engine</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sathiyalabs/Milan-">Milan ’26</a></h3>
-      <p>A cultural festival frontend prototype for the SRMIST DSA tech team selection task, with event filtering, form validation, and demo registration.</p>
-      <p><strong>React · TypeScript · Tailwind CSS · Vite</strong></p>
-      <p><a href="https://github.com/sathiyalabs/Milan-">Explore source →</a></p>
+      <p>A festival frontend prototype built for an SRMIST tech team selection task. Features event filtering, validated registration, and demo confirmation flows.</p>
+      <p><strong>React · TypeScript · Tailwind CSS</strong></p>
+      <p><a href="https://github.com/sathiyalabs/Milan-">Source &amp; overview</a> · <a href="https://github.com/sathiyalabs/Milan-/blob/main/tests/run_tests.ts">Tests</a></p>
     </td>
   </tr>
 </table>
 
-## Learning & tools
+## Current focus
 
-| Area | Focus |
-| :--- | :--- |
-| **Fundamentals** | C · Python · Data structures & algorithms · Problem-solving |
-| **Web projects** | React · TypeScript · Tailwind CSS · Vite |
-| **Data & ML projects** | pandas · scikit-learn · NetworkX · Flask |
-| **Development workflow** | Git · GitHub · Linux |
+C and Python fundamentals, data structures and algorithms, and making my projects easier to test, understand, and use.
 
-My current priorities are to practise problem-solving consistently, understand the code I build, and improve project quality through validation, testing, and documentation.
-
----
-
-<p align="center">
-  <strong>Connect with me</strong><br />
-  Happy to connect with fellow students and developers for projects, hackathons, and learning.<br /><br />
-  <a href="https://www.linkedin.com/in/sathiyanarayananl/">Find me on LinkedIn →</a>
-</p>
+I’m interested in student collaborations and hackathons. [Connect on LinkedIn](https://www.linkedin.com/in/sathiyanarayananl/).
