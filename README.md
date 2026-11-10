@@ -1,16 +1,27 @@
-# Sathiya Narayanan L
+# ![Sathiya Narayanan L. · Computer Science at SRMIST](./assets/profile-banner.svg)
 
-I'm a first-year B.Tech Computer Science and Engineering student at SRMIST, Chennai, interested in software engineering and AI.
+I’m a first-year B.Tech Computer Science and Engineering (Core) student at SRMIST, Kattankulathur. I build web apps in React and TypeScript and use Python to experiment with machine learning. Right now I’m learning C and data structures alongside those projects.
 
-I'm learning C, Python, data structures, and algorithms while building web applications and exploring machine learning.
+## Featured work
 
-[LinkedIn](https://www.linkedin.com/in/sathiyanarayananl/) · [Repositories](https://github.com/sathiyalabs?tab=repositories)
+### DayPatch · A student planner for when the day slips
 
-## Selected projects
+If I start studying 45 minutes late, which work can I still finish before dinner and which work has to wait? DayPatch schedules around fixed commitments and deadlines, then shows exactly how much work spills over. I can try smaller targets before saving a change. The interactive demo and the planner in the workspace use the same TypeScript function.
 
-- **[Varnam Gifts](https://github.com/sathiyalabs/Varnamgifts)** — A Next.js gift catalogue with collection search, interactive product cards, and WhatsApp enquiries. [Live site](https://varnam-gifts-motion.thanish3475.chatgpt.site/).
-- **[ImpactGraph AI](https://github.com/sathiyalabs/impactgraph-ai)** — A Python machine learning experiment using Git change metrics and dependency graphs to estimate bug-fix risk, with baseline comparisons and evaluation code.
-- **[ProjectMatch](https://github.com/sathiyalabs/projectmatch)** — A React and TypeScript prototype for identifying team capability gaps and comparing candidates’ potential contributions.
-- **[Milan ’26](https://github.com/sathiyalabs/Milan-)** — A festival frontend prototype built for an SRMIST tech team selection task, with event filtering and validated demo registration.
+[Try the live planner](https://daypatch-student-orbit.sathiyalabs2606.chatgpt.site/) · [Read the source](https://github.com/sathiyalabs/daypatch) · [See the scheduling tests](https://github.com/sathiyalabs/daypatch/blob/main/tests/planner.test.ts)
 
-I'm interested in collaborating on student projects and hackathons.
+### ImpactGraph AI · Finding changes worth reviewing
+
+Does knowing which files depend on a change help predict later bug fixes? I compared a model that uses lines changed with one that also counts direct and indirect dependencies. On the held-out portion of one Flask dataset, average precision rose from **0.309 to 0.575**. The repository includes the evaluation code and the underlying result.
+
+[Explore ImpactGraph](https://github.com/sathiyalabs/impactgraph-ai) · [Inspect the evaluation](https://github.com/sathiyalabs/impactgraph-ai/blob/main/results/evaluation.json)
+
+## More projects
+
+| Project | What to explore |
+| --- | --- |
+| [ProjectMatch](https://github.com/sathiyalabs/projectmatch) | Compare two possible teammates and see which missing capabilities each would bring to a hackathon team. |
+| [Milan ’26](https://github.com/sathiyalabs/Milan-) | Browse festival events and try the validated registration flow in my frontend prototype for SRMIST’s student tech-team selection. |
+| [Varnam Gifts](https://github.com/sathiyalabs/Varnamgifts) | Search a Next.js gift catalogue and open a WhatsApp enquiry with the chosen product already filled in. |
+
+I’m open to building with other students, especially at hackathons. [Connect on LinkedIn](https://www.linkedin.com/in/sathiyanarayananl/) · [Browse my repositories](https://github.com/sathiyalabs?tab=repositories)
