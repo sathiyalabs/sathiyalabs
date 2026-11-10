@@ -21,7 +21,8 @@ Does knowing which files depend on a change help predict later bug fixes? I comp
 | Project | What to explore |
 | --- | --- |
 | [ProjectMatch](https://github.com/sathiyalabs/projectmatch) | Compare two possible teammates and see which missing capabilities each would bring to a hackathon team. |
-| [Milan ’26](https://github.com/sathiyalabs/Milan-) | Browse festival events and try the validated registration flow in my frontend prototype for SRMIST’s student tech-team selection. |
-| [Varnam Gifts](https://github.com/sathiyalabs/Varnamgifts) | Search a Next.js gift catalogue and open a WhatsApp enquiry with the chosen product already filled in. |
+| [Milan ’26](https://github.com/sathiyalabs/Milan-) | Browse festival events and try the validated registration flow in my frontend prototype for SRMIST’s student tech-team selection. [Live festival demo](https://milanweb.vercel.app/) |
+| [Varnam Gifts](https://github.com/sathiyalabs/Varnamgifts) | Search a Next.js gift catalogue and open a WhatsApp enquiry with the chosen product already filled in. [Live catalogue](https://varnam-gifts-motion.thanish3475.chatgpt.site/) |
+| [VYOM X1](https://vyom-x1-ferrari-atelier.foamykoi2.chatgpt.site/) | Explore six Ferrari studies with exploded engineering views and procedural audio in an interactive automotive showcase. |
 
 I’m open to building with other students, especially at hackathons. [Connect on LinkedIn](https://www.linkedin.com/in/sathiyanarayananl/) · [Browse my repositories](https://github.com/sathiyalabs?tab=repositories)
